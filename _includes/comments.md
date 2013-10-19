@@ -2,7 +2,7 @@
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'zhgdg2gitcafe'; // required: replace example with your forum shortname
+    var disqus_shortname = 'readerneighborgitcafecom'; // required: replace example with your forum shortname
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
