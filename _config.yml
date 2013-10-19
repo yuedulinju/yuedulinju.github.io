@@ -1,0 +1,15 @@
+root: /
+permalink: /:year-:month/:title/
+markdown: rdiscount
+pygments: true
+
+markdown_ext:  markdown,md
+
+paginate: 3
+
+title: 阅读邻居
+author: Zoom.Quiet
+email: "zoomquiet+sns@gmail.com"
+
+exclude:
+  - README.md
