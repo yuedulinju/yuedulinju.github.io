@@ -68,29 +68,20 @@ type: post
 <article class="article article-first">
 <h3>最新文章</h3>
 <ul>
-	{% for post in site.posts limit: 4 %}
+	{% for post in site.posts limit: 7 %}
 	<li><a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
 </article>
 <article class="article article-last">
-<h3>友情链接</h3>
+<h3>相关链接</h3>
 <ul>
-	<li>社区
+	<li>资源
 	<ul>
-		<li><a href="https://groups.google.com/forum/?hl=zh-CN_US&fromgroups#!forum/gdg-zhuhai">邮件列表: gdg-zhuhai@googlegroups.com</a>
+		<li><a href="http://ydlj.u.qiniudn.com/">资料空间</a>
 		</li>
-		<li><a href="http://gplus.to/gdgzh">G+ 信息页</a>
+		<li><a href="https://gitcafe.com/readerneighbor/readerneighbor/">发布仓库</a>
 		</li>
-		<li><a href="http://gplus.to/zhGDG">G+ 社群</a>
-		</li>
-		<li><a href="http://weibo.com/gdgzh">微博: @GDG珠海</a>
-		</li>
-		<li>微信: <img src="/img/qrcode_zhgdg_258.jpg"/>
-		</li>
-		<li>论坛: <a href="http://www.chinagdg.com/forum-94-1.html">珠海GDG论坛 (Zhuhai GDG Forum)</a>
-		</li>
-
 	</ul>
 	</li>
 	<li>大妈
