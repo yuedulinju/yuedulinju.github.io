@@ -25,6 +25,7 @@ tags:  issue summary
 - 地点：读易洞书房
 - 嘉宾：@杨早、@邱小石、@啤酒黄永、@吴军、@出版人周筠、@王闻wayne、@呐言敏行的猪、@veldts、@childchen、@沉醉寒冬、@Nellie、朱静蔚
 - 感谢: @veldts 整理！
+- pdf: [131130-追索乡村记忆-阅读邻居第二十期.pdf](http://ydlj.u.qiniudn.com/pdf/131130-%E8%BF%BD%E7%B4%A2%E4%B9%A1%E6%9D%91%E8%AE%B0%E5%BF%86-%E9%98%85%E8%AF%BB%E9%82%BB%E5%B1%85%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9C%9F.pdf)
 
 ![](http://ww2.sinaimg.cn/large/9b4cdbf4jw1eb37zwsexjj20vk0notd3.jpg)
 
