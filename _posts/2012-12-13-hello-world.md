@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 你好,世界
-author: zoomq
+author: readn
 description: 永远的 Hallo World,说明团队 Blogging 系统的选择/分析/对比,当然有结论!
 categories: Doc
 tags:  md hallo
