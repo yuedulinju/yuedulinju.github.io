@@ -5,11 +5,25 @@ pygments: true
 
 markdown_ext:  markdown,md
 
-paginate: 1
+paginate: 3
 
 title: 阅读邻居
-author: Zoom.Quiet
-email: "zoomquiet+sns@gmail.com"
+email: "zoomquiet+rn@gmail.com"
+authors: 
+    readn:
+        name: Reading Neighbuor
+        display_name: 阅读邻居
+        gravatar: e2fbbb298320f9d9c4398210cf5c25b5
+        email: zoomquiet+rn@gmail.com
+        web: http://yuedulinju.com/about.html
+        github: ZoomQuiet
+    zoomq:
+        name: Zoom Quiet
+        display_name: Zoom.Quiet
+        gravatar: 26221c6d3cedc50c506aa699e2765252
+        email: i@zoomquiet.io
+        web: http://devrel.info/2014-02/ac0-zq/
+        github: ZoomQuiet
 
 exclude:
   - README.md

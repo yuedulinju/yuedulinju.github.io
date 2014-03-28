@@ -2,6 +2,7 @@
 layout: post
 title: 如何在M$系统中管理 Gitcafe 的Pages 内容发布?
 description: ~ 基于 msysgit,在M$ 系统中使用Git 来管理 Gitcafe 的Pages 发布Blog! 
+author: zoomq
 categories: Howto
 tags:  git gitcafe pages
 ---
@@ -17,6 +18,8 @@ tags:  git gitcafe pages
 - [[2012/10/31]GitCafe正式推出Pages服务 | Blog – GitCafe](http://blog.gitcafe.com/116.html)
 - [Creating Project Pages manually · github:help](https://help.github.com/articles/creating-project-pages-manually)
 
+
+<!--more-->
 
 在 `Gitcafe` 中发布 `Pages` 也是同样的过程:
 

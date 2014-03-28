@@ -2,7 +2,8 @@
 layout: post
 title: 使用SourceTree 来管理 Gitcafe 的Pages 发布Blog!
 description: 最美的版本控制客户端 ~ 用SourceTree 来管理 Gitcafe 的Pages 发布Blog!
-categories: Doc
+author: zoomq
+categories: Howto
 tags:  git gitcafe pages
 ---
 
@@ -21,6 +22,8 @@ tags:  git gitcafe pages
 
 的确非常好用,虽然是全E文界面的,俺来快速演示一下如何...
 
+
+<!--more-->
 
 用 SourceTree 发布 Pages
 ------------------------------

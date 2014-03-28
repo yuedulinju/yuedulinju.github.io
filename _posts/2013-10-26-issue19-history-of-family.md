@@ -2,6 +2,7 @@
 layout: post
 title: 人人家里有部史
 description: 总第19期
+author: zoomq
 categories: 阅读邻居
 tags:  issue summary
 ---
@@ -20,6 +21,8 @@ tags:  issue summary
 - 全本: [20131013_人人家里都有史 - 阅读邻居第十九期.pdf](http://ydlj.u.qiniudn.com/pdf/20131013_%E4%BA%BA%E4%BA%BA%E5%AE%B6%E9%87%8C%E9%83%BD%E6%9C%89%E5%8F%B2%20-%20%E9%98%85%E8%AF%BB%E9%82%BB%E5%B1%85%E7%AC%AC%E5%8D%81%E4%B9%9D%E6%9C%9F.pdf)
 
 # 节略
+
+<!--more-->
 
 ## 各自感想
 

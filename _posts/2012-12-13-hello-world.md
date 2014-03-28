@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 你好,世界
+author: zoomq
 description: 永远的 Hallo World,说明团队 Blogging 系统的选择/分析/对比,当然有结论!
 categories: Doc
 tags:  md hallo
@@ -15,6 +16,8 @@ Hallo World!
 ------------------------------
 
 为了积累团队声望,坚持分享有价值的文章是必须的!
+
+<!--more-->
 
 - 用 `Wordpress` / `Drupal` 来自个儿架设一个?! 
     - 嗯嗯嗯,我们只是想有个快速发布内容的渠道

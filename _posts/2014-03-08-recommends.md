@@ -2,6 +2,7 @@
 layout: post
 title: 阅读邻居22期荐书
 description: 总第22期荐书
+author: zoomq
 categories: 阅读邻居
 tags:  issue summary
 ---
@@ -19,6 +20,7 @@ tags:  issue summary
 
 ![](http://tp3.sinaimg.cn/1662059594/180/5652523042/1)
 
+<!--more-->
 
 - <<从黎明到衰落:西方生活文化500年>> 雅克·巴尔赞
 

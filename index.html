@@ -11,7 +11,14 @@ type: post
 
 		<h4 class="main-excerpt-title"><a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></h4>
 
-		{{ post.content }}
+		{{ post.content | split:'<!--more-->' |first }}
+
+		<p class="more">
+<a href="{{ post.url }}" title="阅读更多" rel="nofollow"
+	class="btn btn-info btn-sm" role="button">
+<span>&#10149;</span>
+	 ... 阅读更多</a>
+		</p>
 
 		<p class="date">
 		<i class="icon-calendar"></i>{{  post.date| date: "%Y-%m-%d"  }} &nbsp;
@@ -28,8 +35,6 @@ type: post
 	<!--
 	<p>{{ post.description }}</p>
 	-->
-		<p class="more">
-			<a href="{{ post.url }}" title="阅读更多" rel="nofollow"><span>&#10149;</span>阅读更多</a></p>
 
 	</article>
 	{% endfor %}
@@ -91,13 +96,9 @@ type: post
 	</li>
 	<li>网站
 	<ul>
-		<li><a href="http://techparty.org/">TechParty:珠三角技术沙龙 | 打造泛珠三角技术圈线上线下交流的平台</a>
-			</li>
-		<li><a href="http://pyconchina.github.io/pycoders-weekly-zh/archives.html">Archives | 蠎周刊 | 汇集全球蠎事儿!-)</a>
-			</li>
 		<li><a href="http://readerneighbor.gitcafe.com/">Reader as Neighbor ;-)</a>
 			</li>
-		<li><a href="http://liebao.org.cn/">猎豹开发社 | 共享开发的乐趣;-)</a>
+		<li><a href="http://pyconchina.github.io/pycoders-weekly-zh/archives.html">Archives | 蠎周刊 | 汇集全球蠎事儿!-)</a>
 			</li>
 	</ul>
 	</li>
