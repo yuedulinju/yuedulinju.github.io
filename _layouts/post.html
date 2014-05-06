@@ -29,6 +29,11 @@ layout: page
   授权。转载请注明转自: 
   <a href="/about.html" title="{{ page.title }}" rel="nofollow">#阅读邻居#</a>
 </p>
+
+<hr/>
+{% include comments.md %}
+
+
 <section class="fn-clear">
   <h2>Related Posts:</h2>
   <ul>
@@ -50,5 +55,3 @@ layout: page
       <div class="lost-nextpage-right"> <i class="icon-circle-arrow-right"></i><a href="{{ page.next.url }}" rel="next" title="{{ page.next.title }}">后一篇：{{ page.next.title }}</a></div>
       {% endif %}
 </section>
-<hr/>
-{% include comments.md %}
