@@ -99,12 +99,18 @@ width="600"/>
 - 于是认真纪要
 - 于是习惯图谱
 
-![](http://tangle.zoomquiet.googlecode.com/hg/dot/obp/rn8children-fdp.png)
+<img src="http://tangle.zoomquiet.googlecode.com/hg/dot/obp/rn8children-fdp.png"
+width="800"/>
+
+    - 点击查阅大图: [](http://tangle.zoomquiet.googlecode.com/hg/dot/obp/rn8children-fdp.png)
 
 - 于是继续努力参加
 - 于是就变成了:
 
 ![](http://ww4.sinaimg.cn/mw1024/53809965jw1eeohma7boyj219c0y0gtq.jpg)
+
+<img src="http://ww4.sinaimg.cn/mw1024/53809965jw1eeohma7boyj219c0y0gtq.jpg"
+width="600"/>
 
 回顾一下自个儿变成 阅读好邻居 的过程,
 发现基本是自然而然的,
