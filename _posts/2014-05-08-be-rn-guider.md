@@ -6,7 +6,8 @@ categories: Howto
 tags:  指南 guider DAMA
 ---
 
-![dog-loves-reader.jpg（JPEG 图像，950x534 像素）](http://rack.0.mshcdn.com/media/ZgkyMDEzLzAzLzE0LzQzL2RvZ2xvdmVzcmVhLjBkYzQ5LmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn/57a4d9b6/8c0/dog-loves-reader.jpg)
+<img src="http://rack.0.mshcdn.com/media/ZgkyMDEzLzAzLzE0LzQzL2RvZ2xvdmVzcmVhLjBkYzQ5LmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn/57a4d9b6/8c0/dog-loves-reader.jpg"
+width="300"/>
 
 <!--more-->
 
