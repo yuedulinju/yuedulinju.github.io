@@ -98,8 +98,7 @@ width="600"/>
 - 于是认真吐糟
 - 于是认真纪要
 - 于是习惯图谱
-    - <img src="http://tangle.zoomquiet.googlecode.com/hg/dot/obp/rn8children-fdp.png"
-width="800"/>
+    - ![rn8children-fdp_zip.png](http://zoomq.qiniudn.com/ZQCollection/snap/rn8children-fdp_zip.png)
     - 点击查阅大图: [](http://tangle.zoomquiet.googlecode.com/hg/dot/obp/rn8children-fdp.png)
 
 - 于是继续努力参加
@@ -248,7 +247,7 @@ width="600"/>
 
 ## 是也乎
 
-- 140509 ![](http://tp4.sinaimg.cn/1194991743/30/1279875308/1) [@杨早](http://weibo.com/gaofu) 指派, 当天完成初稿
+- 140509 受 ![](http://tp4.sinaimg.cn/1194991743/30/1279875308/1) [@杨早](http://weibo.com/gaofu) 指派, 当天完成初稿
 
 
 
