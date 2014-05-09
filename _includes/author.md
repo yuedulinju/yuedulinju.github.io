@@ -9,15 +9,21 @@
       height="32"
     >
     </a>
-    <b>{{ author.display_name }}</b>
+    <b><a href="{{ author.web }}">{{ author.display_name }}</a></b>
+
+      <i>
+        ;<a href="mailto:{{ author.email }}">mail</a>
+      </i>
+
+      <i>
+        ;<a href="mailto:{{ author.gittip }}">
+        gittip
+        </a>
+      </i>
+
     <i>
-        Github:
-        <a href="https://github.com/{{ author.github }}">@{{ author.github }}</a>;
+        ;<a href="https://github.com/{{ author.github }}">github</a>
       </i>
-      <i>
-        <a href="{{ author.web }}">Web</a>;
-      </i>
-      <i>
-        <a href="mailto:{{ author.email }}">{{ author.email }}</a>
-      </i>
+
+
 <br/>
