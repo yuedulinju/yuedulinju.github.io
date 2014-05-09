@@ -21,6 +21,28 @@ body{
 }
 
 /*************************
+ * 140508 appended for TOC
+ ruby - How to add a table of contents to Jekyll blog post? - Stack Overflow 
+    http://stackoverflow.com/questions/9602936/how-to-add-a-table-of-contents-to-jekyll-blog-post
+base: markdown menu 
+    https://gist.github.com/cloudsben/605993
+frok : http://wiki.woodpecker.org.cn/moin/ZoomQuiet/book;
+*************************/
+#category {
+    background: #E8E8E8;
+    border: 1px solid #ABABAB;
+    border-radius: 0.5em;
+    -moz-border-radius: 0.5em;
+    font-size: small;
+    text-align: left;
+    margin: 0.5em;
+    padding: 0.25em 0.5em;
+    float: right;
+    max-width: 50%;
+    clear: right;
+}
+
+/*************************
  * reset style
 *************************/
 html { color: #1F0909; Hbackground: #0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
@@ -235,7 +257,9 @@ h1, h2, h3, h4, h5, h6{ font-weight: 500; font-weight: 700\9; color:#333; }
 .lost .lost-anno a { color: #1F0909; }
 
 /**Custom**/
-.lost-ul-title {font-weight: 500;font-size: 1.3em;}
+.lost-ul-title {font-weight: 500;font-size: 1.3em;
+    font-variant:inherit ;
+    }
 .lost-blockbox { overflow:hidden;background:#F0FFFF;border:1px solid #e8e8e8;margin:5px 1px 5px;padding:5px 16px;text-align:left;border-radius:5px;}
 .main-index .main-excerpt { margin-bottom: 2px; padding: 10px 0; border-bottom: 1px dashed #bebebe; } 
 .main-index .main-excerpt .date { font-style: italic; color: #888; } 
