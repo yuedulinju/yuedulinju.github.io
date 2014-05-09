@@ -99,7 +99,7 @@ width="600"/>
 - 于是认真纪要
 - 于是习惯图谱
     - ![rn8children-fdp_zip.png](http://zoomq.qiniudn.com/ZQCollection/snap/rn8children-fdp_zip.png)
-    - 点击查阅大图: [](http://tangle.zoomquiet.googlecode.com/hg/dot/obp/rn8children-fdp.png)
+    - 点击查阅大图: [tangle.zoomquiet.googlecode.com/hg/dot/obp/rn8children-fdp.png](http://tangle.zoomquiet.googlecode.com/hg/dot/obp/rn8children-fdp.png)
 
 - 于是继续努力参加
 - 于是就变成了:
