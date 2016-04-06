@@ -1,0 +1,31 @@
+root: /
+permalink: /:year-:month/:title/
+markdown: rdiscount
+pygments: true
+
+markdown_ext:  markdown,md
+
+paginate: 3
+
+title: 阅读邻居
+email: "zoomquiet+rn@gmail.com"
+authors: 
+    readn:
+        name: Reading Neighbuor
+        display_name: 阅邻
+        gravatar: e2fbbb298320f9d9c4398210cf5c25b5
+        email: support@yuedulinju.com
+        web: http://yuedulinju.com/about.html
+        github: ZoomQuiet
+        gittip: https://www.gittip.com/ZoomQuiet/
+    zoomq:
+        name: Zoom Quiet
+        display_name: Zoom.Quiet
+        gravatar: 26221c6d3cedc50c506aa699e2765252
+        email: i@zoomquiet.io
+        web: http://devrel.info/2014-02/ac0-zq/
+        github: ZoomQuiet
+        gittip: https://www.gittip.com/ZoomQuiet/
+
+exclude:
+  - README.md

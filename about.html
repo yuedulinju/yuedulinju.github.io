@@ -1,0 +1,120 @@
+---
+title: 关于
+layout: page
+comments: yes
+---
+
+<link rel="stylesheet" href="http://yandex.st/highlightjs/6.2/styles/googlecode.min.css">
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $("h2,h3,h4,h5,h6").each(function(i,item){
+    var tag = $(item).get(0).localName;
+    $(item).attr("id","wow"+i);
+    $("#category").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');
+    $(".newh2").css("margin-left",0);
+    $(".newh3").css("margin-left",20);
+    $(".newh4").css("margin-left",40);
+    $(".newh5").css("margin-left",60);
+    $(".newh6").css("margin-left",80);
+  });
+});
+</script>
+
+
+
+<article class="listing fn-clear"> 
+
+<div id="category"></div>
+
+  <p>
+    <a href="/atom.xml"><i class="icon-rss"></i>订阅</a> 
+    | <a href="mailto:support@yuedulinju.com"><i class="icon-envelope-alt"></i>联系</a>
+  </p>
+
+  <h2>阅读邻居</h2>
+  <p>
+由爱书人:
+    <img src="http://tp4.sinaimg.cn/1644081727/30/1279883004/1"/>
+        <a href="http://weibo.com/chakefusiji">@绿茶</a>
+    ;<img src="http://tp3.sinaimg.cn/1662059594/30/5652523042/1"/>
+        <a href="http://weibo.com/qiuxiaoshi">@邱小石</a>
+    ;<img src="http://tp4.sinaimg.cn/1194991743/30/1279875308/1"/>
+        <a href="http://weibo.com/gaofu">@杨早</a>    
+<br/>
+三人发起的读书会，以图书和电影为载体，
+面对面的茶话，分享每一个人独特的阅读体验。
+    
+<b>人在书海,面向当下,心系历史:</b>
+  <ul>
+    <li>for Reader ~ 为读书人分享我们的经验</li>
+    <li>by Reader ~ 由社区提供友好的支持</li>
+    <li>be Reader ~ 对回归读书的爱好提供帮助</li>
+    <li>as Reader ~ 如读书人般思考/运营整个项目!</li>
+  </ul>
+  </p>
+<h2>邻居设计</h2>
+
+<p>
+作为邻居专用设计师, ｀胡颖` 为邻居设计了大量对味儿的设计: 
+  <ul>
+    <li>
+        </li>
+    <li>
+        </li>
+  </ul>
+</p>
+
+<h2>资源发布</h2>
+
+<p>
+  <ol>
+    <li><a href="https://read.douban.com/ebook/3442667/">阅读邻居第23期 - 豆瓣阅读 
+        </a>
+        </li>
+    <li><a href="http://ydlj.qiniudn.com/pdf/index.html">阅读邻居-往期活动-纪实 pdf</a>
+        </li>
+    <li><a href="http://zoomq.qiniudn.com/ReadNeighbor/index.html">阅读邻居-往期活动-DAMA 录音</a>
+        </li>
+    <li>
+        </li>
+    <li>
+        </li>
+  </ol>
+</p>
+
+
+<h2>others</h2>
+  <p>当前社区 Blog 基于<a href="https://github.com/mojombo/jekyll">Jekyll</a> 托管在
+    <b>
+      <a href="https://gitcafe.com/readerneighbor/readerneighbor/">readerneighbor/readerneighbor - GitCafe</a>
+    </b>
+<hr/>
+<b>网站维护纪要:</b>
+  <ul>
+    <li>
+        </li>
+    <li>140509 追加 TOC 支持, 增补统一缀文,包含活动各种固定资源/信息..
+        </li>
+    <li>140328 增补样式,首页分页,追加作者信息
+        </li>
+    <li>131019 上线
+        </li>
+  </ul>
+</p>
+
+  </p>
+
+
+  <p>
+    <a href="/atom.xml"><i class="icon-rss"></i>订阅</a> 
+    | <a href="mailto:support@yuedulinju.me"><i class="icon-envelope-alt"></i>联系</a>
+  </p>
+</article>
+
+<section>
+{% include comments.md %}
+</section>
+
