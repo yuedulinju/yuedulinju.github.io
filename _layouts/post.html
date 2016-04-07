@@ -38,12 +38,12 @@ $(document).ready(function(){
 
 <i class="icon-cogs"></i>
 {% for cat in page.categories %} 
-    <a href="/categories.html#{{ cat }}-ref" title="{{ cat }}" rel="category">{{ cat }}</a>
+    <a href="/categories/#{{ cat }}-ref" title="{{ cat }}" rel="category">{{ cat }}</a>
 {% endfor %}
 &nbsp;&nbsp;
 <i class="icon-tags"></i>
 {% for tag in page.tags %}
-      <a href="/tags.html#{{ tag }}-ref" title="{{ tag }}" rel="tag">{{ tag }} &nbsp;</a>
+      <a href="/tags/#{{ tag }}-ref" title="{{ tag }}" rel="tag">{{ tag }} &nbsp;</a>
 {% endfor %}
 <p class="lost-anno">
   声明: 本文采用 
